@@ -1,0 +1,13 @@
+
+/**
+ * 
+ */
+class WolfPack {
+
+    /**
+     * 
+     */
+    public constructor() {
+    }
+
+}

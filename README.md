@@ -1,3 +1,14 @@
 # Design Pattern
 
-## use StarUML
+## UML
+
+```
+UML basis
+
+use StarUML
+
+Class Diagram
+```
+
+## OOD
+

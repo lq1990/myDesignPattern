@@ -5,9 +5,11 @@ public class KFC implements IStore{
         return new KFCchips();
     }
 
+
     @Override
     public IChicken getChicken() {
         System.out.println("KFC produces OrleanChicken.");
         return new OrleanChicken();
     }
+
 }

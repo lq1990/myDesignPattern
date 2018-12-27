@@ -1,5 +1,8 @@
 public interface IStore {
+
     // IStore is the AbstractFactory, it can produces many productions.
+
+
 
     // factory interface
     IChips getChips();

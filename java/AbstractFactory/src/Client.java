@@ -7,10 +7,12 @@ public class Client {
         // we don't need to edit other files.
 
         store.getChips().eat();
+
         store.getChicken().eat();
 
         IStore store2 = new Dicos();
         store2.getChips().eat();
         store2.getChicken().eat();
+
     }
 }

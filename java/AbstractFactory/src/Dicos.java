@@ -5,9 +5,11 @@ public class Dicos implements IStore{
         return new Dicoschips();
     }
 
+
     @Override
     public IChicken getChicken() {
         System.out.println("Dicos produces HandGunChicken.");
         return new HandGunChicken();
     }
+
 }
